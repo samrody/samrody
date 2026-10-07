@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Sichone</h1>
-<h3 align="center">🚀 Data Engineer | Data Analyst</h3>
+<h3 align="center">🚀 Data scientist| Data Engineer | Data/Gis Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 🤝 I’m looking for help with **Data_Pipeline**
+- 🤝 I’m looking for help with **Data Contracts**
 
 - 💬 Ask me about **pyspark,snowflake and tensflow**
 
